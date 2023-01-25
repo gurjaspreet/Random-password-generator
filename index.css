@@ -1,0 +1,36 @@
+body {
+    background: #1F2937;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+#hero {
+    margin: 80px 40px;
+}
+
+.follow-text {
+    color: #D5D4D8;
+}
+
+.btn {
+    margin-top: 40px;
+    background: #10B981;
+    border: none;
+    padding: 9px 16px;
+    border-radius: 6px;
+    color: #FFFFFF;
+}
+
+.highlight-green {
+    color: #4ADF86;
+}
+
+#passwords {
+    margin: 80px 40px;
+    color: #4ADF86;
+    background: #273549;
+    width: 70px;
+    padding: 6px 14px;
+    border: none;
+    border-radius: 6px;
+}
